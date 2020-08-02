@@ -1,0 +1,22 @@
+{
+  "name": "serve_me_up",
+  "version": "1.0.0",
+  "description": "TCP Backend Homework for Node.js",
+  "main": "userInput.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvansturgill/Serve-Me-Up.git"
+  },
+  "author": "Nia Van Buren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvansturgill/Serve-Me-Up/issues"
+  },
+  "homepage": "https://github.com/nvansturgill/Serve-Me-Up#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
