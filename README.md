@@ -4,7 +4,9 @@ This application serves to explain the value of creating servers through an inte
 
 _Note: This application is an assignment of TechBridge's Technology Career Program, June_2020_Cohort_
 
----
+![](demo.gif)
+
+--------------------------------------------------------------------------------
 
 ## User Story
 
@@ -13,7 +15,7 @@ As a student I want to create a server that accepts user input
 in the command line so that I know how to create a server.
 ```
 
-#### Assignment Acceptance Criteria
+### Assignment Acceptance Criteria
 
 **_Given_** that the user is prompted with a question
 
@@ -36,5 +38,4 @@ in the command line so that I know how to create a server.
 - `userPassword.txt` file must have user data store
 - Must have comments (pseudo code) explaining your code
 - Create a `GitHub` repo for your server
-- Commit to `GitHub` at least five times
-  Submit `.js` file and `Github` link to Google classroom
+- Commit to `GitHub` at least five times Submit `.js` file and `Github` link to Google classroom
